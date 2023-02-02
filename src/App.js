@@ -1,9 +1,8 @@
-import logo from "./logo.svg";
 import "./App.css";
-import CrudPage from "./materiCRUD";
+import ReduxPage from "./resources";
 
 function App() {
-  return <CrudPage />;
+  return <ReduxPage />;
 }
 
 export default App;
